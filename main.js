@@ -4,7 +4,7 @@ function calculate(){
 
   var total = thimbles + swords;
 
-  document.getElementById("the-total").innerHTML = total+" monies";
+  document.getElementById("the-total").textContent = total+" monies";
 };
 
 document.getElementById("update-button").onclick = calculate;

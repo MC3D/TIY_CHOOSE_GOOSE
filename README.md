@@ -1,9 +1,10 @@
 9/3/2014
 
-* Use the provided HTML in index.html
+Use the provided HTML in index.html
 
-* Create and link to a JavaScript file
-* Your program should execute the following steps:
+Create and link to a JavaScript file
+
+Your program should execute the following steps:
   * Get the quantities out of the input boxes and store them in variables
   * Use Number("37") to convert the strings from the input to numbers
   * Multiply them by their cost and add them together
